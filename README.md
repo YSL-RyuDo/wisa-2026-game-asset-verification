@@ -2,6 +2,10 @@
 
 [English](README.md) · [Korean](README.ko.md) · [Japanese](README.ja.md)
 
+## Method and findings at a glance
+
+The recorded experiment uses 50 game images, 17 transformations and 5 controls: 1,150 C2PA checks and 4,400 hash-evaluation rows. Cropping 20% yields 74–88% Top-1 retrieval; the synthetic screenshot-canvas condition yields 0–8%. These failure conditions matter as much as successful matching. The public archive includes scripts, measured CSVs, paper and poster; the original image corpus and signing keys are not bundled.
+
 ## Reading guide
 
 Start with the research question and method, then inspect measured results and failure cases. Use the reproduction guide to distinguish the public artifacts from required local data.
