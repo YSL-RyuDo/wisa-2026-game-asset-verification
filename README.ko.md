@@ -2,6 +2,12 @@
 
 [English](README.md) · [Korean](README.ko.md) · [Japanese](README.ja.md)
 
+## 연구 자료 읽는 순서
+
+연구 질문과 방법을 먼저 읽고, 측정 결과와 실패 사례를 확인하세요. 재현 안내에서 공개된 산출물과 별도로 필요한 로컬 데이터를 구분할 수 있습니다.
+
+[개발 사례 보기](https://ysl-ryudo.github.io/ko/research/wisa/) · [Portfolio](https://ysl-ryudo.github.io/ko/)
+
 **A Verification Method for Game Image Assets Using C2PA Manifest Validation and Perceptual Hash-Based Similarity Analysis**의 연구 코드와 기록된 실험 결과입니다.
 
 **WISA 2026 · 대한민국 제주 포스터 발표.** 이영상은 제1저자이자 포스터 발표자입니다. 공동 연구이며 MOD 패키지 provenance 연구 및 GCTLAB 개발과 별개입니다.

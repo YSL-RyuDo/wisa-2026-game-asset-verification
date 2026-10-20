@@ -2,6 +2,12 @@
 
 [English](README.md) · [Korean](README.ko.md) · [Japanese](README.ja.md)
 
+## Reading guide
+
+Start with the research question and method, then inspect measured results and failure cases. Use the reproduction guide to distinguish the public artifacts from required local data.
+
+[Explore the case](https://ysl-ryudo.github.io/en/research/wisa/) · [Portfolio](https://ysl-ryudo.github.io/en/)
+
 Research code and recorded results for **A Verification Method for Game Image Assets Using C2PA Manifest Validation and Perceptual Hash-Based Similarity Analysis**.
 
 **WISA 2026 · Poster presentation · Jeju, Republic of Korea.** Young-Sang Lee is the first author and poster presenter. This is a coauthored study; it is independent of the MOD-package provenance project and GCTLAB development.
