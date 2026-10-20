@@ -1,0 +1,51 @@
+﻿asset_id,asset_type,file_name,relative_path,format,width,height,source,description
+BG_001,background,background_001.png,data/original/background/background_001.png,PNG,992,664,generated,school campus background
+BG_002,background,background_002.png,data/original/background/background_002.png,PNG,992,664,generated,cyber city background
+BG_003,background,background_003.png,data/original/background/background_003.png,PNG,992,664,generated,forest path background
+BG_004,background,background_004.png,data/original/background/background_004.png,PNG,992,664,generated,dungeon corridor background
+BG_005,background,background_005.png,data/original/background/background_005.png,PNG,992,664,generated,futuristic lobby background
+BG_006,background,background_006.png,data/original/background/background_006.png,PNG,992,664,generated,training room background
+BG_007,background,background_007.png,data/original/background/background_007.png,PNG,992,664,generated,virtual space background
+BG_008,background,background_008.png,data/original/background/background_008.png,PNG,992,664,generated,desert ruins background
+BG_009,background,background_009.png,data/original/background/background_009.png,PNG,992,664,generated,night street background
+BG_010,background,background_010.png,data/original/background/background_010.png,PNG,992,664,generated,battlefield ruins background
+CHAR_001,character,character_001.png,data/original/character/character_001.png,PNG,664,664,generated,cyber girl character illustration
+CHAR_002,character,character_002.png,data/original/character/character_002.png,PNG,664,664,generated,dark queen character illustration
+CHAR_003,character,character_003.png,data/original/character/character_003.png,PNG,664,664,generated,school uniform character illustration
+CHAR_004,character,character_004.png,data/original/character/character_004.png,PNG,664,664,generated,shrine maiden character illustration
+CHAR_005,character,character_005.png,data/original/character/character_005.png,PNG,664,664,generated,fantasy knight character illustration
+CHAR_006,character,character_006.png,data/original/character/character_006.png,PNG,664,664,generated,magical girl character illustration
+CHAR_007,character,character_007.png,data/original/character/character_007.png,PNG,664,664,generated,male suit character illustration
+CHAR_008,character,character_008.png,data/original/character/character_008.png,PNG,664,664,generated,maid character illustration
+CHAR_009,character,character_009.png,data/original/character/character_009.png,PNG,664,664,generated,summer dress character illustration
+CHAR_010,character,character_010.png,data/original/character/character_010.png,PNG,664,664,generated,mecha pilot character illustration
+CON_001,concept,concept_001.png,data/original/concept/concept_001.png,PNG,664,664,generated,character scene concept art
+CON_002,concept,concept_002.png,data/original/concept/concept_002.png,PNG,664,664,generated,weapon design concept art
+CON_003,concept,concept_003.png,data/original/concept/concept_003.png,PNG,664,664,generated,monster design concept art
+CON_004,concept,concept_004.png,data/original/concept/concept_004.png,PNG,664,664,generated,map layout concept art
+CON_005,concept,concept_005.png,data/original/concept/concept_005.png,PNG,664,664,generated,building design concept art
+CON_006,concept,concept_006.png,data/original/concept/concept_006.png,PNG,664,664,generated,vehicle design concept art
+CON_007,concept,concept_007.png,data/original/concept/concept_007.png,PNG,664,664,generated,boss arena concept art
+CON_008,concept,concept_008.png,data/original/concept/concept_008.png,PNG,664,664,generated,lobby concept art
+CON_009,concept,concept_009.png,data/original/concept/concept_009.png,PNG,664,664,generated,skill effect concept art
+CON_010,concept,concept_010.png,data/original/concept/concept_010.png,PNG,664,664,generated,gameplay mockup concept art
+ICON_001,icon,icon_001.png,data/original/icon/icon_001.png,PNG,664,664,generated,blue magic skill icon
+ICON_002,icon,icon_002.png,data/original/icon/icon_002.png,PNG,664,664,generated,red core skill icon
+ICON_003,icon,icon_003.png,data/original/icon/icon_003.png,PNG,664,664,generated,blue shield UI icon
+ICON_004,icon,icon_004.png,data/original/icon/icon_004.png,PNG,664,664,generated,dark fire status icon
+ICON_005,icon,icon_005.png,data/original/icon/icon_005.png,PNG,664,664,generated,red potion item icon
+ICON_006,icon,icon_006.png,data/original/icon/icon_006.png,PNG,664,664,generated,ice crystal skill icon
+ICON_007,icon,icon_007.png,data/original/icon/icon_007.png,PNG,664,664,generated,sword slash skill icon
+ICON_008,icon,icon_008.png,data/original/icon/icon_008.png,PNG,664,664,generated,poison status icon
+ICON_009,icon,icon_009.png,data/original/icon/icon_009.png,PNG,664,664,generated,gold currency icon
+ICON_010,icon,icon_010.png,data/original/icon/icon_010.png,PNG,664,664,generated,ice monster skill icon
+TEX_001,texture,texture_001.png,data/original/texture/texture_001.png,PNG,664,664,generated,wood floor texture
+TEX_002,texture,texture_002.png,data/original/texture/texture_002.png,PNG,664,664,generated,metal panel texture
+TEX_003,texture,texture_003.png,data/original/texture/texture_003.png,PNG,664,664,generated,stone block texture
+TEX_004,texture,texture_004.png,data/original/texture/texture_004.png,PNG,664,664,generated,grass texture
+TEX_005,texture,texture_005.png,data/original/texture/texture_005.png,PNG,664,664,generated,dirt ground texture
+TEX_006,texture,texture_006.png,data/original/texture/texture_006.png,PNG,664,664,generated,water surface texture
+TEX_007,texture,texture_007.png,data/original/texture/texture_007.png,PNG,664,664,generated,brick wall texture
+TEX_008,texture,texture_008.png,data/original/texture/texture_008.png,PNG,664,664,generated,fabric pattern texture
+TEX_009,texture,texture_009.png,data/original/texture/texture_009.png,PNG,664,664,generated,tile floor texture
+TEX_010,texture,texture_010.png,data/original/texture/texture_010.png,PNG,664,664,generated,sci-fi panel texture

@@ -1,0 +1,5 @@
+group,c2pa_status,status,count
+control,S0,VALID_WITH_TRUST_WARNING,50
+control,S2,NO_CLAIM_FOUND,200
+signed_original,S0,VALID_WITH_TRUST_WARNING,50
+transformed,S2,NO_CLAIM_FOUND,850
