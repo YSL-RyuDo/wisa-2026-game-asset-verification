@@ -1,6 +1,12 @@
-# ゲーム画像アセット検証 — WISA 2026
+# ゲーム画像アセット検証, WISA 2026
 
-[English](README.md) · [Korean](README.ko.md) · [Japanese](README.ja.md)
+[English](README.md), [Korean](README.ko.md), [Japanese](README.ja.md)
+
+**WISA 2026: 筆頭著者、ポスター発表**
+
+[第27回 World Conference on Information Security Applications](https://wisa.or.kr/)
+
+2026.08.26 ~ 28, 韓国・済州、MAISON GLAD
 
 ## 手法と結果の概要
 
@@ -10,7 +16,7 @@
 
 研究の問いと手法から読み、測定結果と失敗例を確認してください。再現ガイドで公開成果物と別途必要なローカルデータを区別できます。
 
-[開発事例を見る](https://ysl-ryudo.github.io/ja/research/wisa/) · [Portfolio](https://ysl-ryudo.github.io/ja/)
+[開発事例を見る](https://ysl-ryudo.github.io/ja/research/wisa/), [Portfolio](https://ysl-ryudo.github.io/ja/)
 
 **A Verification Method for Game Image Assets Using C2PA Manifest Validation and Perceptual Hash-Based Similarity Analysis**の研究コードと記録済み実験結果です。
 
@@ -58,6 +64,6 @@ python scripts/wisa_originality_v3_all.py --root ./experiment --c2patool c2patoo
 
 ## 論文・ポスター・著者
 
-[論文](paper/WISA_2026_paper.pdf) · [ポスター](paper/WISA_2026_poster.pdf) · [記録済み結果](results/) · [資料ハッシュ](ARTIFACTS.sha256)
+[論文](paper/WISA_2026_paper.pdf), [ポスター](paper/WISA_2026_poster.pdf), [記録済み結果](results/), [資料ハッシュ](ARTIFACTS.sha256)
 
 Young-Sang Lee, Jung-Min Park, Won-Yong Lee, Geon Park, Myeong-Jae Lee, Yun-Ho Kim, Jung-Guen Lee, Dang Dai Tho, Hye-Young Kim。全所属・研究費謝辞・参考文献は論文に保持されています。論文・画像・外部ツール全体に一括ライセンスを付与するものではありません。

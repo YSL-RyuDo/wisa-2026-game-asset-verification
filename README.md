@@ -1,20 +1,26 @@
-# Game Image Asset Verification — WISA 2026
+# Game Image Asset Verification, WISA 2026
 
-[English](README.md) · [Korean](README.ko.md) · [Japanese](README.ja.md)
+[English](README.md), [Korean](README.ko.md), [Japanese](README.ja.md)
+
+**WISA 2026: First author, poster presenter**
+
+[27th World Conference on Information Security Applications](https://wisa.or.kr/)
+
+26 ~ 28 Aug 2026, MAISON GLAD, Jeju, Korea
 
 ## Method and findings at a glance
 
-The recorded experiment uses 50 game images, 17 transformations and 5 controls: 1,150 C2PA checks and 4,400 hash-evaluation rows. Cropping 20% yields 74–88% Top-1 retrieval; the synthetic screenshot-canvas condition yields 0–8%. These failure conditions matter as much as successful matching. The public archive includes scripts, measured CSVs, paper and poster; the original image corpus and signing keys are not bundled.
+The recorded experiment uses 50 game images, 17 transformations and 5 controls: 1,150 C2PA checks and 4,400 hash-evaluation rows. Cropping 20% yields 74 ~ 88% Top-1 retrieval; the synthetic screenshot-canvas condition yields 0 ~ 8%. These failure conditions matter as much as successful matching. The public archive includes scripts, measured CSVs, paper and poster; the original image corpus and signing keys are not bundled.
 
 ## Reading guide
 
 Start with the research question and method, then inspect measured results and failure cases. Use the reproduction guide to distinguish the public artifacts from required local data.
 
-[Explore the case](https://ysl-ryudo.github.io/en/research/wisa/) · [Portfolio](https://ysl-ryudo.github.io/en/)
+[Explore the case](https://ysl-ryudo.github.io/en/research/wisa/), [Portfolio](https://ysl-ryudo.github.io/en/)
 
 Research code and recorded results for **A Verification Method for Game Image Assets Using C2PA Manifest Validation and Perceptual Hash-Based Similarity Analysis**.
 
-**WISA 2026 · Poster presentation · Jeju, Republic of Korea.** Young-Sang Lee is the first author and poster presenter. This is a coauthored study; it is independent of the MOD-package provenance project and GCTLAB development.
+**WISA 2026, Poster presentation, Jeju, Republic of Korea.** Young-Sang Lee is the first author and poster presenter. This is a coauthored study; it is independent of the MOD-package provenance project and GCTLAB development.
 
 ## Research question and method
 
@@ -33,8 +39,8 @@ The archived v3 script evaluates hashes across control/transformed queries; it d
 | Condition | Recorded Top-1 result |
 |---|---:|
 | JPEG Q95, 50% resize, metadata removal, watermark | 100% for all four hashes |
-| 20% crop | 74–88% |
-| Screenshot-style canvas | 0–8% |
+| 20% crop | 74 ~ 88% |
+| Screenshot-style canvas | 0 ~ 8% |
 | 5° rotation, pHash | 82% |
 | 15°/30° rotation | No method exceeds 12% |
 
@@ -58,6 +64,6 @@ The packaging check verified ZIP integrity, Python syntax, result row counts and
 
 ## Paper, poster and authors
 
-[Paper](paper/WISA_2026_paper.pdf) · [Poster](paper/WISA_2026_poster.pdf) · [Recorded results](results/) · [Artifact hashes](ARTIFACTS.sha256)
+[Paper](paper/WISA_2026_paper.pdf), [Poster](paper/WISA_2026_poster.pdf), [Recorded results](results/), [Artifact hashes](ARTIFACTS.sha256)
 
 Young-Sang Lee, Jung-Min Park, Won-Yong Lee, Geon Park, Myeong-Jae Lee, Yun-Ho Kim, Jung-Guen Lee, Dang Dai Tho, and Hye-Young Kim. Full affiliations, funding acknowledgement and references are preserved in the paper. No blanket license is asserted over the paper, images or third-party tools.
